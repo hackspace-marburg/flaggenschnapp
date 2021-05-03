@@ -1,0 +1,8 @@
+ROUTE_REGISTER = '/register'
+ROUTE_USER = '/user'
+ROUTE_ROOT = '/'
+ROUTE1 = '/r1'
+ROUTE2 = '/r2'
+ROUTE3 = '/r3'
+ROUTE4 = '/r4'
+ROUTE5 = '/r5'
